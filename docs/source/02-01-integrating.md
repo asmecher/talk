@@ -23,7 +23,7 @@ With Coral setup and running locally you can find your **Embed code** under **Co
       };
       (d.head || d.body).appendChild(s);
   })();
-</script>`;
+</script>
 ```
 
 > **NOTE:** Replace the value of `{% raw %}{{ CORAL_DOMAIN_NAME }}{% endraw %}` with the location of your running instance of Coral.
